@@ -1,6 +1,6 @@
 # Reducing_Traffic_Mortality
 
-## Background
+## Project Task
 The US Department of Transportation has requested our assistance in investigating how to reduce the frequency of road accidents nationwide. 
 In order to accomplish this task, we have examined the demographics of traffic accident victims in each US state and found substantial variations among them. 
 Our objective is to identify any underlying patterns in these variations so that we can develop a comprehensive policy action plan that includes 
