@@ -11,12 +11,12 @@ To accomplish these tasks, I used data manipulation, plotting, dimensionality re
 The datasets was originally collected by the National Highway Traffic Safety Administration and the National Association of Insurance Commissioners.
 
 **road-accidents.csv** containes the following 5 features: 
-<p>state - the state name;
-<p>drvr_fatl_col_bmiles - Number of drivers involved in fatal collisions per billion miles (2011);
-<p>perc_fatl_speed - Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding (2009);
-<p>perc_fatl_alcohol - Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired (2011);
-<p>perc_fatl_1st_time - Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents (2011.
+- state - the state name;
+- drvr_fatl_col_bmiles - Number of drivers involved in fatal collisions per billion miles (2011);
+- perc_fatl_speed - Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding (2009);
+- perc_fatl_alcohol - Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired (2011);
+- perc_fatl_1st_time - Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents (2011.
 
 **miles-driven.csv** containes the following 2 features: 
-<p>state - the state name;
-<p>million_miles_annually - how many miles are driven in each state.
+- state - the state name;
+- million_miles_annually - how many miles are driven in each state.
