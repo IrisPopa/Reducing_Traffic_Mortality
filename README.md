@@ -20,3 +20,5 @@ The datasets was originally collected by the National Highway Traffic Safety Adm
 **miles-driven.csv** containes the following 2 features: 
 - state - the state name;
 - million_miles_annually - how many miles are driven in each state.
+
+This is a guided project I have done on the DataCamp platform. In a guided project, learners are provided with a set of instructions and a specific goal to achieve using a real-world dataset.
